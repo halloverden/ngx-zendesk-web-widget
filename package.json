@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve sample-test-app --host 0.0.0.0 --disable-host-check --poll 100 --configuration development",
-    "build": "ng build",
+    "build": "ng build ngx-zendesk-web-widget",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "prettier --list-different .",
