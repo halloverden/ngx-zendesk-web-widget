@@ -6,7 +6,7 @@ Inspired by [AlisonVilela/ngx-zendesk-webwidget](https://github.com/AlisonVilela
 ## Install
 
 ```bash
-npm install ngx-zendesk-web-widget --save
+npm install @halloverden/ngx-zendesk-web-widget --save
 ```
 
 ## Usage
