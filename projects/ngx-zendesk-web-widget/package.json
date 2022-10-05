@@ -1,6 +1,27 @@
 {
-  "name": "ngx-zendesk-web-widget",
+  "name": "@halloverden/ngx-zendesk-web-widget",
   "version": "0.1.0",
+  "description": "Angular wrapper for the Zendesk Web Widget v1 (classic)",
+  "private": false,
+  "keywords": [
+    "angular",
+    "zendesk",
+    "widget",
+    "ngx"
+  ],
+  "homepage": "https://github.com/halloverden/ngx-zendesk-web-widget/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/halloverden/ngx-zendesk-web-widget/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Erich Json Fosse",
+    "email": "erich@halloverden.no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halloverden/ngx-zendesk-web-widget"
+  },
   "peerDependencies": {
     "@angular/common": "^14.2.0",
     "@angular/core": "^14.2.0"

@@ -1,6 +1,6 @@
 # NgxZendeskWebWidget
 
-Angular implementation of the Zendesk Web Widget v1 (classic).
+Angular wrapper for the Zendesk Web Widget v1 (classic).
 Inspired by [AlisonVilela/ngx-zendesk-webwidget](https://github.com/AlisonVilela/ngx-zendesk-webwidget), a library that seems to not be maintained anymore.
 
 ## Install
