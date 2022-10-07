@@ -1,6 +1,6 @@
 {
   "name": "@halloverden/ngx-zendesk-web-widget",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Angular wrapper for the Zendesk Web Widget v1 (classic)",
   "private": false,
   "keywords": [
