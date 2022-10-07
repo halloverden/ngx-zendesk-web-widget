@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4 (2022-10-07)
+
+- FIX: Issues with previous build
+
 ## 0.1.3 (2022-10-05)
 
 - EDIT: Moved README.md and CHANGELOG.md to project folder, and created a symlinks for root
